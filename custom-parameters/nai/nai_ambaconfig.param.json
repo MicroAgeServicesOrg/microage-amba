@@ -121,7 +121,9 @@
         "value": ""
       },
       "BYOActionGroup": {
-        "value": "/subscriptions/d2f147db-1059-4c0c-aa7a-341d43a2a09a/resourceGroups/msca-ambamonitoring-rg/providers/microsoft.insights/actionGroups/masvc-connectwise"
+        "value": [
+            "/subscriptions/d2f147db-1059-4c0c-aa7a-341d43a2a09a/resourceGroups/msca-ambamonitoring-rg/providers/microsoft.insights/actionGroups/masvc-connectwise"
+        ]
       },
       "BYOAlertProcessingRule": {
         "value": ""
