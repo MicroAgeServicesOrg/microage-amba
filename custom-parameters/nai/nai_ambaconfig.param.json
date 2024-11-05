@@ -9,13 +9,13 @@
         "value": "nai-platform"
       },
       "IdentityManagementGroup": {
-        "value": "nai-identity"
+        "value": "nai-platform"
       },
       "managementManagementGroup": {
-        "value": "nai-management"
+        "value": "nai-platform"
       },
       "connectivityManagementGroup": {
-        "value": "nai-connectivity"
+        "value": "nai-platform"
       },
       "LandingZoneManagementGroup": {
         "value": "nai-landingzones"
