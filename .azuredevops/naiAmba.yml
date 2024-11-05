@@ -14,4 +14,4 @@ steps:
       scriptType: bash
       scriptLocation: inlineScript
       inlineScript: |
-        az deployment mg what-if --template-file ./releases/2024-11-01/patterns/alz/alzArm.json --location $(location) --management-group-id $(ManagementGroupPrefix) --parameters ./custom-parameters/nai/nai_ambaconfig.param.json
+        az deployment mg what-if --template-file ./patterns/alz/alzArm.json --location $(location) --management-group-id $(ManagementGroupPrefix) --parameters ./custom-parameters/nai/nai_ambaconfig.param.json
