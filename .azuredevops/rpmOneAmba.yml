@@ -3,7 +3,7 @@ trigger: none
 variables:
   location: "northcentralus"
   ManagementGroupPrefix: "rpm"
-  serviceConnectionName: "ambaServiceConnection-rpm"
+  serviceConnectionName: "ado-sc-amba-rpmOne"
   customParamFilePath: "./custom-parameters/rpm/rpm_ambaconfig.param.json"
   
 
