@@ -4,7 +4,7 @@ variables:
   location: "northcentralus"
   ManagementGroupPrefix: "rpm"
   serviceConnectionName: "ado-sc-amba-rpmOne"
-  customParamFilePath: "./custom-parameters/rpm/rpmOne_ambaconfig.param.json"
+  customParamFilePath: "./custom-parameters/rpmOne/rpmOne_ambaconfig.param.json"
   
 
 pool:
